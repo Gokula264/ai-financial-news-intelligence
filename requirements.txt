@@ -1,0 +1,11 @@
+pandas
+numpy
+sentence-transformers
+scikit-learn
+spacy
+langchain
+langgraph
+langgraph-checkpoint
+langgraph-sdk
+python-dotenv
+pytest
